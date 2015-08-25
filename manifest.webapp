@@ -1,0 +1,27 @@
+{
+  "name": "System - HotSpot",
+  "description": "Wi-Fi HotSpot Shortcut",
+  "developer": {
+    "name": "Liang-Heng Chen"
+  },
+  "locales": {
+    "en-US": {
+      "name": "FxOS Quick HotSpot",
+      "description": "Wi-Fi HotSpot Shortcut"
+    }
+  },
+  "default_locale": "en-US",
+  "package_path": "application.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [
+    {
+      "filter": "app://system.gaiamobile.org",
+      "scripts": [
+        "main.js"
+      ]
+    }
+  ],
+  "icons": {
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "System - HotSpot",
+  "description": "Wi-Fi HotSpot Shortcut",
+  "developer": {
+    "name": "Liang-Heng Chen"
+  },
+  "package_path": "extension.zip"
+}

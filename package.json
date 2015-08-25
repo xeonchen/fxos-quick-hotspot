@@ -1,0 +1,11 @@
+{
+  "name": "fxos-quick-hotspot",
+  "description": "Wi-Fi HotSpot Shortcut",
+  "developer": {
+    "name": "Liang-Heng Chen"
+  },
+  "dependencies": {
+    "gulp": "*",
+    "gulp-zip": "*"
+  }
+}

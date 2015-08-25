@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "System - HotSpot",
+  "description": "Wi-Fi HotSpot Shortcut",
+  "version": "1.0",
+  "author": "Liang-Heng Chen",
+  "content_scripts": [
+    {
+      "matches": ["app://system.gaiamobile.org"],
+      "js": ["main.js"]
+    }
+  ]
+}
